@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/project name/',
+  publicPath: 'https://aleshere.github.io/weather_app_vue/',
 };
